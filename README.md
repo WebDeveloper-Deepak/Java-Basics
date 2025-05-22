@@ -1,6 +1,5 @@
 # Java Basics Fundamentals <img align="center" height=40px src="https://skillicons.dev/icons?i=java">
 
-<p><img align="center" src="https://github.com/shanibider/-Java-Basics/assets/72359805/00b8dc2c-00c6-4a8b-a9a8-d5c2921d1362"></p>
 
 **Java** fundamental concepts and code examples covering various aspects of Java programming language.
 Whether you're new to Java or seeking a refresher, this resource aims to provide a clear understanding
@@ -756,20 +755,18 @@ class MyCollection implements Iterable<String> {
 ### Complex Data Structures 🏗️
 Complex data structures involve combinations of basic data structures like arrays, lists, maps, and sets to solve more sophisticated problems.
 
-<img align="center" src="https://github.com/shanibider/-Java-Basics/assets/72359805/dc2e7157-8c73-46b2-b519-be322cd3b86f">
-
 
 ---
 
 
 ## 📫 Connect with me 😊
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shani-bider/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shanibider.github.io/Portfolio/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanibider@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsdeepak-sharma/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepak.ds.7421@gmail.com)
 
 <footer>
 <p style="float:left; width: 20%;">
-Copyright © Shani Bider
+Copyright © Deepak Sharma
 </p>
 </footer>
 
